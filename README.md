@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm K Tejeshwar Reddy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <a href="https://twitter.com/rktejesh1" target="blank"><img src="https://img.shields.io/twitter/follow/rktejesh1?logo=twitter&style=for-the-badge" alt="rktejesh1" /></a> </p>
+<h1 align="left">Hi, I'm K Tejeshwar Reddy</h1>
+<h3 align="left">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **flutter and web development**
 
@@ -29,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rktejesh&show_icons=true&locale=en" alt="rktejesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rktejesh&" alt="rktejesh" /></p>
+
+<p align="left"> <a href="https://twitter.com/rktejesh1" target="blank"><img src="https://img.shields.io/twitter/follow/rktejesh1?logo=twitter&style=for-the-badge" alt="rktejesh1" /></a> </p>
