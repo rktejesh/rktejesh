@@ -9,7 +9,8 @@
 - ⚡ Fun fact **You can know all about me by googling rktejesh.**
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rktejesh&show_icons=true&locale=en" alt="rktejesh" /></p>
+<p>&nbsp;[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rktejesh&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rktejesh&" alt="rktejesh" /></p>
 
