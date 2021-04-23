@@ -18,12 +18,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/rktejesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rktejesh" height="50" width="60" /></a>
-<a href="https://twitter.com/rktejesh1" target="blank"><img align="center" src="./353322.svg" alt="rktejesh1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rktejesh" target="blank"><img align="center" src="./linkedin_black_logo_icon_147114.svg" alt="rktejesh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14700514" target="blank"><img align="center" src="./iconfinder_stackoverflow_rounded_394191.svg" alt="rktejesh" height="30" width="40" /></a>
-<a href="https://fb.com/rktejesh" target="blank"><img align="center" src="./iconfinder_facebook_circle_black_107153.svg" alt="rktejesh" height="30" width="40" /></a>
-<a href="https://dribbble.com/rktejesh" target="blank"><img align="center" src="./iconfinder_BW_Dribbble_3_glyph_svg_5305156.svg" alt="rktejesh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rk_tejesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rk_tejesh" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@rktejesh" target="blank"><img align="center" src="./cib-hackerearth.svg" alt="rktejesh" height="30" width="40" /></a>
+<a href="https://dev.to/rktejesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rktejesh" height="40" width="50" /></a>
+<a href="https://twitter.com/rktejesh1" target="blank"><img align="center" src="./353322.svg" alt="rktejesh1" height="40" width="50"  /></a>
+<a href="https://linkedin.com/in/rktejesh" target="blank"><img align="center" src="./linkedin_black_logo_icon_147114.svg" alt="rktejesh" height="40" width="50"  /></a>
+<a href="https://stackoverflow.com/users/14700514" target="blank"><img align="center" src="./iconfinder_stackoverflow_rounded_394191.svg" alt="rktejesh" height="40" width="50"  /></a>
+<a href="https://fb.com/rktejesh" target="blank"><img align="center" src="./iconfinder_facebook_circle_black_107153.svg" alt="rktejesh" height="40" width="50"  /></a>
+<a href="https://dribbble.com/rktejesh" target="blank"><img align="center" src="./iconfinder_BW_Dribbble_3_glyph_svg_5305156.svg" alt="rktejesh" height="50" width="60" /></a>
+<a href="https://www.codechef.com/users/rk_tejesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rk_tejesh" height="40" width="50" /></a>
+<a href="https://www.hackerearth.com/@rktejesh" target="blank"><img align="center" src="./cib-hackerearth.svg" alt="rktejesh" height="40" width="50" /></a>
 </p>
