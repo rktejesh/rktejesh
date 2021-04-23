@@ -9,11 +9,9 @@
 - ⚡ Fun fact **You can know all about me by googling rktejesh.**
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rktejesh&count_private=true&show_icons=true&theme=radical" alt="rktejesh" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rktejesh&count_private=true&show_icons=true&theme=dracula" alt="rktejesh" />
 </p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rktejesh&" alt="rktejesh" /></p>
-
 <h3 align="left">Languages and Tools:</h3>
 <br>
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp; <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp; <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </p>
