@@ -1,12 +1,12 @@
 <h1 align="left">Hi, I'm K Tejeshwar Reddy</h1>
 
-- 🔭 I’m currently working on **flutter and web development**
+- 🔭 I’m currently working on **web development projects**
 
-- 👯 I’m looking to collaborate on **flutter projects.**
+- 👯 I’m looking to collaborate on **flutter and web development projects**
 
 - 📫 How to reach me **rk.tejesh@gmail.com and lci2020055@iiitl.ac.in**
 
-- ⚡ Fun fact **You can know all about me by googling rktejesh.**
+- ⚡ Fun fact **You can know more about me by googling rktejesh.**
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rktejesh&count_private=true&show_icons=true&theme=dracula" alt="rktejesh" />
 </p>
