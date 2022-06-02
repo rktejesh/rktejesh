@@ -19,7 +19,7 @@ const rktejesh = {
 ## Github Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rktejesh&count_private=true&show_icons=true&theme=tokyonight" alt="rktejesh" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rktejesh&hide=jupyter%20notebook&layout=compact&theme=tokyonight" alt="rktejesh" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rktejesh&hide=jupyter%20notebook&layout=compact&theme=tokyonight" alt="rktejesh" />
 </p>
 
 ## Connect with me!
