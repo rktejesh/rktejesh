@@ -1,4 +1,6 @@
 # ![Gradient Elegant Line Gaming Twitter Header Banner(1)](https://user-images.githubusercontent.com/73354337/171396380-d4c446dd-f437-432f-9c68-ad9a0a546f74.png)
+![Profile views](https://gpvc.arturio.dev/rktejesh)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3500&vCenter=true&height=28&lines=Hi!+I+am+K+Tejeshwar+Reddy+%F0%9F%91%8B;Sophomore+at+IIIT+Lucknow;I+am+a+MERN+stack+developer!;I+am+also+a+Flutter+Developer!)](https://git.io/typing-svg)
 
 <img align="right" height="300" src="https://user-images.githubusercontent.com/73354337/171433720-7bc6214b-330e-4371-bac4-e97a69647e19.gif" alt="rktejesh" />
